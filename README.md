@@ -76,6 +76,8 @@ Note: Feel free to reach out for clarification or assistance with any aspect of 
 
    ![Run the Setup Tool](image3.png)
 
+   ![Download Visual Studio Code](image-9.png)
+
 **Create Bootable USB:**
 
 1. Select your USB flash drive from the list and click "Next."
@@ -119,7 +121,7 @@ Note: Feel free to reach out for clarification or assistance with any aspect of 
    - Visit [Visual Studio Code download page](https://code.visualstudio.com/Download).
    - Select "Download for Windows".
 
-   ![Download Visual Studio Code](image-9.png)
+   ![Download Visual Studio Code](image4.png)
 
 **Step 2. Wait for the download to finish and locate the installer in your Downloads folder.**
 
